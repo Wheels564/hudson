@@ -161,6 +161,7 @@
   {  "model": "marlin", "oem": "Google", "name": "Pixel XL"},
   {  "model": "mata", "oem": "Essential", "name": "PH-1"},
   {  "model": "maserati", "oem": "Motorola", "name": "Droid 4"},
+  {  "model": "mb886", "oem": "Motorola", "name": "Atrix HD"}
   {  "model": "merlin", "oem": "Motorola", "name": "Moto G3 Turbo"},
   {  "model": "mido", "oem": "Xiaomi", "name": "Redmi Note 4"},
   {  "model": "mint", "oem": "Sony", "name": "Xperia T"},
@@ -247,6 +248,8 @@
   {  "model": "violet", "oem": "Xiaomi", "name": "Redmi Note 7 Pro"},
   {  "model": "vs985", "oem": "LG", "name": "G3 (VZW)"},
   {  "model": "vs995", "oem": "LG", "name": "V20 (VZW)"},
+  {  "model": "xt907_jbbl", "oem": "Motorola", "name": "Raxr M"}
+  {  "model": "xt926_jbbl", "oem": "Motorola", "name": "Raxr HD"}
   {  "model": "w5", "oem": "LG", "name": "Optimus L70"},
   {  "model": "w7", "oem": "LG", "name": "Optimus L90"},
   {  "model": "whyred", "oem": "Xiaomi", "name": "Redmi Note 5 Pro"},
