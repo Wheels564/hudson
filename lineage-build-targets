@@ -1,13 +1,13 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
-# Nightly cm14.1
-athene userdebug cm-14.1 N
-clark userdebug cm-14.1 N
-mb886 userdebug cm-14.1 N
-xt897 userdebug cm-14.1 N
-xt907_jbbl userdebug cm-14.1 N
-xt925_jbbl userdebug cm-14.1 N
-xt926_jbbl userdebug cm-14.1 N
+# Weekly cm14.1
+athene userdebug cm-14.1 W
+clark userdebug cm-14.1 W
+mb886 userdebug cm-14.1 W
+xt897 userdebug cm-14.1 W
+xt907_jbbl userdebug cm-14.1 W
+xt925_jbbl userdebug cm-14.1 W
+xt926_jbbl userdebug cm-14.1 W
 
 
