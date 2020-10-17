@@ -999,6 +999,16 @@
         "android_device_essential_mata",
         "android_kernel_essential_msm8998",
         "android_packages_resources_devicesettings"
+   ],
+   "mb886": [
+        "android_device_motorola_mb886",
+        "android_device_motorola_msm8960_jbbl-common"
+        "android_device_motorola_qcom-common"     
+        "android_kernel_motorola_msm8960-common"
+        "android_device_qcom_common"
+        "android_external_stlport"
+        "android_external_sony_boringssl-compat"
+        "android_packages_resources_devicesettings"
     ],
     "mido": [
         "android_device_xiaomi_mido",
