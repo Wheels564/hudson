@@ -161,7 +161,7 @@
   {  "model": "marlin", "oem": "Google", "name": "Pixel XL"},
   {  "model": "mata", "oem": "Essential", "name": "PH-1"},
   {  "model": "maserati", "oem": "Motorola", "name": "Droid 4"},
-  {  "model": "mb886", "oem": "Motorola", "name": "Atrix HD"}: true},
+  {  "model": "mb886", "oem": "Motorola", "name": "Atrix HD"},
   {  "model": "merlin", "oem": "Motorola", "name": "Moto G3 Turbo"},
   {  "model": "mido", "oem": "Xiaomi", "name": "Redmi Note 4"},
   {  "model": "mint", "oem": "Sony", "name": "Xperia T"},
