@@ -2,14 +2,5 @@
 # <branch name> <release_target_version> <jira_ticket> [period: "W"eekly]
 
 # Branch cm-14.1
-# Weekly cm14.1
-athene userdebug cm-14.1 W
-clark userdebug cm-14.1 W
-mb886 userdebug cm-14.1 W
-xt897 userdebug cm-14.1 W
-xt907_jbbl userdebug cm-14.1 W
-xt925_jbbl userdebug cm-14.1 W
-xt926_jbbl userdebug cm-14.1 W
-
 
 # Branch cm-13.0
