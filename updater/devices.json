@@ -248,8 +248,6 @@
   {  "model": "violet", "oem": "Xiaomi", "name": "Redmi Note 7 Pro"},
   {  "model": "vs985", "oem": "LG", "name": "G3 (VZW)"},
   {  "model": "vs995", "oem": "LG", "name": "V20 (VZW)"},
-  {  "model": "xt907_jbbl", "oem": "Motorola", "name": "Raxr M"}
-  {  "model": "xt926_jbbl", "oem": "Motorola", "name": "Raxr HD"}
   {  "model": "w5", "oem": "LG", "name": "Optimus L70"},
   {  "model": "w7", "oem": "LG", "name": "Optimus L90"},
   {  "model": "whyred", "oem": "Xiaomi", "name": "Redmi Note 5 Pro"},
@@ -258,6 +256,9 @@
   {  "model": "X01BD", "oem": "Asus", "name": "Zenfone Max Pro M2"},
   {  "model": "x2", "oem": "LeEco", "name": "Le Max 2", "lineage_recovery": true},
   {  "model": "xt897", "oem": "Motorola", "name": "Photon Q"},
+  {  "model": "xt907_jbbl", "oem": "Motorola", "name": "Raxr M"}
+  {  "model": "xt925_jbbl", "oem": "Motorola", "name": "Raxr HD"}
+  {  "model": "xt926_jbbl", "oem": "Motorola", "name": "Raxr HD"}  
   {  "model": "YTX703F", "oem": "Lenovo", "name": "Yoga Tab 3 Plus Wi-Fi"},
   {  "model": "YTX703L", "oem": "Lenovo", "name": "Yoga Tab 3 Plus LTE"},
   {  "model": "yuga", "oem": "Sony", "name": "Xperia Z"},
