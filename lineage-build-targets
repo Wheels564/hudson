@@ -1,7 +1,7 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
-# Weekly cm14.1
+# Weekly cm-14.1
 athene userdebug cm-14.1 W
 clark userdebug cm-14.1 W
 mb886 userdebug cm-14.1 W
@@ -9,3 +9,13 @@ xt897 userdebug cm-14.1 W
 xt907_jbbl userdebug cm-14.1 W
 xt925_jbbl userdebug cm-14.1 W
 xt926_jbbl userdebug cm-14.1 W
+
+
+# Weekly Lineage-15.1
+athene userdebug lineage-15.1 W
+clark userdebug lineage-15.1 W
+mb886 userdebug lineage-15.1 W
+xt897 userdebug lineage-15.1 W
+xt907_jbbl userdebug lineage-15.1 W
+xt925_jbbl userdebug lineage-15.1 W
+xt926_jbbl userdebug lineage-15.1 W
